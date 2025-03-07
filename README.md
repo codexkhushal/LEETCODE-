@@ -21,4 +21,8 @@ I am posting my daily questions
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
+## Database
+|  |
+| ------- |
+| [2127-employees-whose-manager-left-the-company](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
