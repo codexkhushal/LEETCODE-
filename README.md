@@ -17,6 +17,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -25,4 +26,12 @@ I am posting my daily questions
 |  |
 | ------- |
 | [2127-employees-whose-manager-left-the-company](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2127-employees-whose-manager-left-the-company) |
+## String
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
