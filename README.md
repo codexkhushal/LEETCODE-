@@ -46,4 +46,12 @@ I am posting my daily questions
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
