@@ -35,6 +35,7 @@ I am posting my daily questions
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0185-department-top-three-salaries) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2127-employees-whose-manager-left-the-company) |
 ## String
 |  |
