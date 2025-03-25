@@ -21,6 +21,7 @@ I am posting my daily questions
 | [2690-house-robber-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-zero-array-transformation-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
 |  |
 | ------- |
