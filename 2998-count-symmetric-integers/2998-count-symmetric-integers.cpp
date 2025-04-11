@@ -4,23 +4,19 @@ public:
         int count = 0 ;
 
         for(int num = low ; num <= high ; num++){
-            string s = to_string(num);
-            int l = s.length();
-            if(l%2 != 0){
-                continue;
-            }
-            int rightSum = 0 ; 
-            int leftSum = 0;
-
-            for(int i = 0; i< l/2 ;i++){
-                leftSum += s[i] - '0';
-            }
-            for(int i = l/2 ; i<l ;i++){
-                rightSum += s[i] - '0';
-            }
-            if(leftSum == rightSum){
+            if(num>= 10 && num <100 && num % 11 == 0){
                 count++;
+            }else if(num>=1000 && num < 10000){
+                int first = num/1000 ;
+                int second = (num/100) % 10;
+                int third = (num/10)%10 ;
+                int fourth = num % 10;
+
+                if(first+second == third+fourth){
+                    count++;
+                }
             }
+            
         }
         return count;
 
