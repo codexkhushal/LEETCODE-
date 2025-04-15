@@ -25,6 +25,7 @@ I am posting my daily questions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -84,6 +85,7 @@ I am posting my daily questions
 ## Binary Search
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2690-house-robber-iv) |
@@ -177,6 +179,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -189,4 +192,20 @@ I am posting my daily questions
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
