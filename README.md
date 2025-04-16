@@ -18,6 +18,7 @@ I am posting my daily questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
@@ -44,6 +45,7 @@ I am posting my daily questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
