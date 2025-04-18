@@ -6,6 +6,7 @@ I am posting my daily questions
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -169,6 +170,7 @@ I am posting my daily questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
