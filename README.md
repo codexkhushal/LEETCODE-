@@ -79,6 +79,7 @@ I am posting my daily questions
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
