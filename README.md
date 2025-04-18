@@ -131,6 +131,7 @@ I am posting my daily questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
@@ -194,6 +195,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
