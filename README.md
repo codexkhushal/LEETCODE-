@@ -38,6 +38,7 @@ I am posting my daily questions
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -105,6 +106,7 @@ I am posting my daily questions
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -252,4 +254,12 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
