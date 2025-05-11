@@ -24,6 +24,7 @@ I am posting my daily questions
 | ------- |
 | [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
@@ -143,6 +144,7 @@ I am posting my daily questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -174,6 +176,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
