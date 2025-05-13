@@ -30,6 +30,7 @@ I am posting my daily questions
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
@@ -134,6 +135,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -181,6 +183,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
@@ -201,6 +204,7 @@ I am posting my daily questions
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
