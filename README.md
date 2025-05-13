@@ -154,6 +154,7 @@ I am posting my daily questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -215,6 +216,7 @@ I am posting my daily questions
 | [0908-middle-of-the-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
