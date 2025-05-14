@@ -28,6 +28,7 @@ I am posting my daily questions
 | [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -207,6 +208,7 @@ I am posting my daily questions
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
