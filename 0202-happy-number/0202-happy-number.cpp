@@ -1,23 +1,25 @@
- 
 class Solution {
-    long long int digitSum(int n){
-        long long int sum1 = 0;
-        while(n){
-            sum1 += (n % 10)*(n % 10);
-            n = n / 10;
-        }
-        return sum1;
-    }
-
 public:
     bool isHappy(int n) {
-        long long int firstCall = n;
-        long long int nextCall = digitSum(n);
-        while (firstCall != nextCall) {
-            firstCall = digitSum(firstCall);
-             nextCall = digitSum(digitSum(nextCall));
-            if (firstCall == 1 || nextCall == 1) return true;
+        unordered_set<int> used ;
+        while(true){
+            int sum = 0 ;
+            int temp = n ;
+
+            while(temp != 0){
+                int digit = temp%10;
+                sum+= digit * digit;
+                temp = temp / 10 ;
+            }
+            if(sum==1){
+                return true;
+            }
+            if(used.find(sum)!= used.end()){
+                return false; 
+            }
+
+            used.insert(sum);
+             n = sum ; 
         }
-        return firstCall == 1;
     }
 };
