@@ -67,6 +67,7 @@ I am posting my daily questions
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
@@ -124,6 +125,7 @@ I am posting my daily questions
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -252,6 +254,7 @@ I am posting my daily questions
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2681-put-marbles-in-bags) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
@@ -261,6 +264,7 @@ I am posting my daily questions
 | [0392-is-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
