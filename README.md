@@ -129,6 +129,7 @@ I am posting my daily questions
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -239,6 +240,7 @@ I am posting my daily questions
 | [2414-move-pieces-to-obtain-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ I am posting my daily questions
 | [2681-put-marbles-in-bags](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
