@@ -41,6 +41,7 @@ I am posting my daily questions
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -179,6 +180,7 @@ I am posting my daily questions
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -230,6 +232,7 @@ I am posting my daily questions
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
