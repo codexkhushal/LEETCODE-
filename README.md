@@ -36,6 +36,7 @@ I am posting my daily questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@ I am posting my daily questions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
@@ -169,6 +171,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
@@ -218,6 +221,7 @@ I am posting my daily questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2249-count-the-hidden-sequences) |
 | [3639-zero-array-transformation-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3643-zero-array-transformation-ii) |
