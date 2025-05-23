@@ -90,6 +90,7 @@ I am posting my daily questions
 | [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
@@ -132,6 +133,7 @@ I am posting my daily questions
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,6 +157,7 @@ I am posting my daily questions
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
