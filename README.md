@@ -47,6 +47,7 @@ I am posting my daily questions
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -122,6 +123,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
@@ -293,6 +295,7 @@ I am posting my daily questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
