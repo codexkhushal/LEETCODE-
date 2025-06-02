@@ -36,6 +36,7 @@ I am posting my daily questions
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0219-contains-duplicate-ii) |
@@ -312,6 +313,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
