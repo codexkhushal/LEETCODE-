@@ -408,6 +408,7 @@ I am posting my daily questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 ## Queue
 |  |
@@ -417,4 +418,8 @@ I am posting my daily questions
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
