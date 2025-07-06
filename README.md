@@ -61,6 +61,7 @@ I am posting my daily questions
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2215-finding-3-digit-even-numbers) |
@@ -116,6 +117,7 @@ I am posting my daily questions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -457,4 +459,8 @@ I am posting my daily questions
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
