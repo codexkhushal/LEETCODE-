@@ -58,6 +58,7 @@ I am posting my daily questions
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -257,6 +258,7 @@ I am posting my daily questions
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2681-put-marbles-in-bags) |
@@ -340,6 +342,7 @@ I am posting my daily questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -353,6 +356,7 @@ I am posting my daily questions
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
