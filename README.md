@@ -182,6 +182,7 @@ I am posting my daily questions
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -374,6 +375,7 @@ I am posting my daily questions
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -465,6 +467,7 @@ I am posting my daily questions
 | ------- |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
