@@ -6,6 +6,7 @@ I am posting my daily questions
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
@@ -36,6 +37,7 @@ I am posting my daily questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
