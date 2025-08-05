@@ -107,6 +107,7 @@ I am posting my daily questions
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +235,7 @@ I am posting my daily questions
 | [2690-house-robber-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ I am posting my daily questions
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +466,7 @@ I am posting my daily questions
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -471,6 +475,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
