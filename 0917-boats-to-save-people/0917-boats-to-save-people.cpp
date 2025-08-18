@@ -8,7 +8,7 @@ public:
 
         sort(begin(people) ,end(people));
         while(i<=j){
-            if(people[j]+people[i] <= limit){
+            if(people[i]+people[j] <= limit){
                 i++;
                 j--;
             }else{
