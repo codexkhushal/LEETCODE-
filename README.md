@@ -13,6 +13,7 @@ I am posting my daily questions
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
+| [1033-broken-calculator](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1033-broken-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
@@ -397,6 +398,7 @@ I am posting my daily questions
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
