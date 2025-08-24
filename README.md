@@ -40,6 +40,7 @@ I am posting my daily questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
@@ -282,6 +283,7 @@ I am posting my daily questions
 | [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
