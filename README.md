@@ -41,6 +41,7 @@ I am posting my daily questions
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
