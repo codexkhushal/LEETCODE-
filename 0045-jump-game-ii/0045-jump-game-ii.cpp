@@ -18,3 +18,29 @@ public:
         return jumps;
     }
 };
+
+// i==0 
+// farthest = max(0 , 0+2)
+// farthest = 2
+// i==currentend  (0 == 0){
+//     jump = 1 
+//     curret end = 2 ;
+// }
+
+// i==1 
+// farthset = (2 , 1 + 3)
+// farthest = 4 
+// i!= currentend 
+
+// i == 2 
+// i==2 === 0 
+// farthrsy = 4 , 2 + 0 
+
+// fartehst = 4 
+// jump ++ 
+// currentedn = 4 
+
+// i == 3 
+// fartherst = (4 , 3+ 1){
+//     farthest = 4 
+// }
