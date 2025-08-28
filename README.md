@@ -39,6 +39,7 @@ I am posting my daily questions
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0056-merge-intervals) |
@@ -407,6 +408,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
@@ -438,6 +440,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
