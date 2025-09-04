@@ -31,6 +31,7 @@ I am posting my daily questions
 | [3279-alice-and-bob-playing-flower-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
