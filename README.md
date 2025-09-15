@@ -145,6 +145,7 @@ I am posting my daily questions
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -204,6 +205,7 @@ I am posting my daily questions
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
