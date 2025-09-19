@@ -127,6 +127,7 @@ I am posting my daily questions
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ I am posting my daily questions
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Matrix
 |  |
 | ------- |
@@ -176,6 +178,7 @@ I am posting my daily questions
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
@@ -225,6 +228,7 @@ I am posting my daily questions
 | [3617-find-the-original-typed-string-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -560,6 +564,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Memoization
 |  |
 | ------- |
