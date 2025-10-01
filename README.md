@@ -19,6 +19,7 @@ I am posting my daily questions
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -296,6 +297,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
+| [1642-water-bottles](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
