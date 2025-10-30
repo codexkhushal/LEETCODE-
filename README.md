@@ -7,6 +7,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
@@ -483,6 +484,7 @@ I am posting my daily questions
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
@@ -600,6 +602,7 @@ I am posting my daily questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Function
 |  |
