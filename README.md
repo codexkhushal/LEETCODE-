@@ -367,6 +367,7 @@ I am posting my daily questions
 | [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
@@ -499,6 +500,7 @@ I am posting my daily questions
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -610,6 +612,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Hash Function
 |  |
