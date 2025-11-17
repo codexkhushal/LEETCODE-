@@ -85,6 +85,7 @@ I am posting my daily questions
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
 | [1656-count-good-triplets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
