@@ -14,6 +14,7 @@ I am posting my daily questions
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1033-broken-calculator) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ I am posting my daily questions
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
