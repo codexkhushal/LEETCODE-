@@ -129,6 +129,7 @@ I am posting my daily questions
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -182,6 +183,7 @@ I am posting my daily questions
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -365,6 +367,7 @@ I am posting my daily questions
 | [2249-count-the-hidden-sequences](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2529-range-product-queries-of-powers) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3643-zero-array-transformation-ii) |
