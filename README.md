@@ -555,6 +555,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,6 +602,7 @@ I am posting my daily questions
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0547-number-of-provinces](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Queue
 |  |
 | ------- |
