@@ -34,6 +34,7 @@ I am posting my daily questions
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
@@ -132,6 +133,7 @@ I am posting my daily questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
