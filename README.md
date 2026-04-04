@@ -251,6 +251,7 @@ I am posting my daily questions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2211-count-collisions-on-a-road](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2211-count-collisions-on-a-road) |
@@ -339,6 +340,7 @@ I am posting my daily questions
 | [1642-water-bottles](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
