@@ -239,6 +239,7 @@ I am posting my daily questions
 | [0443-string-compression](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0657-robot-return-to-origin) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
@@ -336,6 +337,7 @@ I am posting my daily questions
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
