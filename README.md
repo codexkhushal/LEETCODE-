@@ -63,6 +63,7 @@ I am posting my daily questions
 | [0118-pascals-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0219-contains-duplicate-ii) |
@@ -296,6 +297,7 @@ I am posting my daily questions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
