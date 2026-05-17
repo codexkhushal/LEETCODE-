@@ -3,10 +3,10 @@ class Solution {
         int j = 0;
         for (int i = 1; i < nums.length; i++) {
             if (nums[j] != nums[i]) {
-                nums[++j] = nums[i];
-                
+                j++;
+                nums[j] = nums[i];
             }
         }
-        return ++j;
+        return j+1;
     }
 }
