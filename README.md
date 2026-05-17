@@ -89,6 +89,7 @@ I am posting my daily questions
 | [1028-interval-list-intersections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -477,6 +478,7 @@ I am posting my daily questions
 | [0547-number-of-provinces](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0945-snakes-and-ladders) |
+| [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
@@ -643,6 +645,7 @@ I am posting my daily questions
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0547-number-of-provinces](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
+| [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
