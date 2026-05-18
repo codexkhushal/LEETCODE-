@@ -8,6 +8,7 @@ I am posting my daily questions
 | ------- |
 | [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0343-integer-break) |
@@ -67,6 +68,7 @@ I am posting my daily questions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0283-move-zeroes) |
@@ -451,6 +453,7 @@ I am posting my daily questions
 | [0151-reverse-words-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
