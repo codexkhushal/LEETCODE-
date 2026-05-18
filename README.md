@@ -66,6 +66,7 @@ I am posting my daily questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0283-move-zeroes) |
@@ -168,6 +169,7 @@ I am posting my daily questions
 | [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
@@ -323,6 +325,7 @@ I am posting my daily questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -365,6 +368,7 @@ I am posting my daily questions
 | [0056-merge-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0594-longest-harmonious-subsequence) |
@@ -593,6 +597,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
