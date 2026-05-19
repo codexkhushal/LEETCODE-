@@ -125,6 +125,7 @@ I am posting my daily questions
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -198,6 +199,7 @@ I am posting my daily questions
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2402-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -317,6 +319,7 @@ I am posting my daily questions
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2690-house-robber-iv) |
@@ -478,6 +481,7 @@ I am posting my daily questions
 | [2414-move-pieces-to-obtain-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
