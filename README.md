@@ -50,6 +50,7 @@ I am posting my daily questions
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
@@ -307,6 +308,7 @@ I am posting my daily questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
