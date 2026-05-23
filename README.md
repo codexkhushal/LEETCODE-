@@ -105,6 +105,7 @@ I am posting my daily questions
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
 | [1656-count-good-triplets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
