@@ -97,6 +97,7 @@ I am posting my daily questions
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1345-jump-game-iv) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -390,6 +391,7 @@ I am posting my daily questions
 | [0985-bag-of-tokens](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
@@ -572,6 +574,7 @@ I am posting my daily questions
 | [0392-is-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
+| [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
