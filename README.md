@@ -52,6 +52,7 @@ I am posting my daily questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
@@ -462,6 +463,7 @@ I am posting my daily questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0088-merge-sorted-array) |
@@ -567,6 +569,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
@@ -661,6 +664,7 @@ I am posting my daily questions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -717,4 +721,8 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
