@@ -6,6 +6,7 @@ I am posting my daily questions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0189-rotate-array) |
@@ -174,6 +175,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
@@ -245,6 +247,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
