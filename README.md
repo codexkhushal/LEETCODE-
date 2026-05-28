@@ -250,6 +250,7 @@ I am posting my daily questions
 | [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0165-compare-version-numbers) |
