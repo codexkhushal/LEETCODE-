@@ -50,6 +50,7 @@ I am posting my daily questions
 | ------- |
 | [0001-two-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -253,6 +254,7 @@ I am posting my daily questions
 | [0005-longest-palindromic-substring](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0058-length-of-last-word) |
@@ -703,6 +705,7 @@ I am posting my daily questions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2079-delete-duplicate-folders-in-system) |
