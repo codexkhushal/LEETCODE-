@@ -38,6 +38,7 @@ I am posting my daily questions
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -151,6 +152,7 @@ I am posting my daily questions
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
