@@ -44,6 +44,7 @@ I am posting my daily questions
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -617,6 +618,7 @@ I am posting my daily questions
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -640,6 +642,7 @@ I am posting my daily questions
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Divide and Conquer
 |  |
