@@ -43,6 +43,7 @@ I am posting my daily questions
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
@@ -666,6 +667,7 @@ I am posting my daily questions
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
@@ -721,6 +723,7 @@ I am posting my daily questions
 | [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Queue
 |  |
