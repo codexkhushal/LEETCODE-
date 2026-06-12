@@ -44,6 +44,7 @@ I am posting my daily questions
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
@@ -165,6 +166,7 @@ I am posting my daily questions
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -470,6 +472,7 @@ I am posting my daily questions
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2529-range-product-queries-of-powers) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Graph
 |  |
 | ------- |
@@ -627,6 +630,7 @@ I am posting my daily questions
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -668,6 +672,7 @@ I am posting my daily questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
@@ -724,6 +729,7 @@ I am posting my daily questions
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Queue
 |  |
