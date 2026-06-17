@@ -31,7 +31,12 @@ class Solution {
             }
             else if (ch == '#') {
                 L = L / 2;
-                k = (k >= L) ? k - L : k;
+
+                if(k >= L ){
+                    k = k-L;
+                }else{
+                    k=k;
+                }
             }else if(ch == '%'){
                 k = L - k - 1;
             }else{
