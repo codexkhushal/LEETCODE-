@@ -469,6 +469,7 @@ I am posting my daily questions
 | [3639-zero-array-transformation-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3643-zero-array-transformation-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
@@ -645,6 +646,7 @@ I am posting my daily questions
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
