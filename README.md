@@ -185,6 +185,7 @@ I am posting my daily questions
 | [3689-maximum-total-subarray-value-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
@@ -245,6 +246,7 @@ I am posting my daily questions
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 ## Matrix
@@ -475,6 +477,7 @@ I am posting my daily questions
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Bit Manipulation
 |  |
@@ -687,6 +690,7 @@ I am posting my daily questions
 | [0191-number-of-1-bits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -716,6 +720,7 @@ I am posting my daily questions
 | [3161-block-placement-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3791-fruits-into-baskets-iii) |
@@ -724,6 +729,7 @@ I am posting my daily questions
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
