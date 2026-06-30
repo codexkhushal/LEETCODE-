@@ -217,6 +217,7 @@ I am posting my daily questions
 | [1015-smallest-integer-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -299,6 +300,7 @@ I am posting my daily questions
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -337,6 +339,7 @@ I am posting my daily questions
 | [0594-longest-harmonious-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1871-jump-game-vii) |
