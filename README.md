@@ -112,6 +112,7 @@ I am posting my daily questions
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1345-jump-game-iv) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -225,6 +226,7 @@ I am posting my daily questions
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -458,6 +460,7 @@ I am posting my daily questions
 | [0985-bag-of-tokens](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1840-maximum-building-height](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1840-maximum-building-height) |
