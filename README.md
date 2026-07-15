@@ -48,6 +48,7 @@ I am posting my daily questions
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -870,4 +871,8 @@ I am posting my daily questions
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
