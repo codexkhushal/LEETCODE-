@@ -41,6 +41,7 @@ I am posting my daily questions
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -172,6 +173,7 @@ I am posting my daily questions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
@@ -252,6 +254,7 @@ I am posting my daily questions
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -393,6 +396,7 @@ I am posting my daily questions
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3620-network-recovery-pathways) |
@@ -412,6 +416,7 @@ I am posting my daily questions
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -502,6 +507,7 @@ I am posting my daily questions
 | [2483-minimum-penalty-for-a-shop](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2529-range-product-queries-of-powers) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3639-zero-array-transformation-i) |
@@ -715,6 +721,7 @@ I am posting my daily questions
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -879,6 +886,7 @@ I am posting my daily questions
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
