@@ -320,6 +320,7 @@ I am posting my daily questions
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -651,6 +652,7 @@ I am posting my daily questions
 | [1018-largest-perimeter-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -800,6 +802,7 @@ I am posting my daily questions
 | [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -864,6 +867,7 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
