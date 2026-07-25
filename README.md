@@ -47,6 +47,7 @@ I am posting my daily questions
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -497,6 +498,7 @@ I am posting my daily questions
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
