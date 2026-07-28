@@ -349,6 +349,7 @@ I am posting my daily questions
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -497,6 +498,7 @@ I am posting my daily questions
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -902,4 +904,8 @@ I am posting my daily questions
 | [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
