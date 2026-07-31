@@ -258,6 +258,7 @@ I am posting my daily questions
 | [2626-count-the-number-of-good-subarrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -346,6 +347,7 @@ I am posting my daily questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2887-sort-vowels-in-a-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -425,6 +427,7 @@ I am posting my daily questions
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -498,6 +501,7 @@ I am posting my daily questions
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -679,6 +683,7 @@ I am posting my daily questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
