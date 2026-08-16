@@ -32,6 +32,7 @@ I am posting my daily questions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2649-count-total-number-of-colored-cells](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2649-count-total-number-of-colored-cells) |
@@ -137,6 +138,7 @@ I am posting my daily questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -425,6 +427,7 @@ I am posting my daily questions
 | [0169-majority-element](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
@@ -679,6 +682,7 @@ I am posting my daily questions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -921,4 +925,20 @@ I am posting my daily questions
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
