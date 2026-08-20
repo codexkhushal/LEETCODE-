@@ -170,6 +170,7 @@ I am posting my daily questions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3161-block-placement-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3161-block-placement-queries) |
@@ -466,6 +467,7 @@ I am posting my daily questions
 | [2274-keep-multiplying-found-values-by-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2402-meeting-rooms-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2402-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3614-process-string-with-special-operations-ii) |
