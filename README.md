@@ -30,6 +30,7 @@ I am posting my daily questions
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
@@ -345,6 +346,7 @@ I am posting my daily questions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -690,6 +692,7 @@ I am posting my daily questions
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -942,6 +945,7 @@ I am posting my daily questions
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
