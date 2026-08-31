@@ -459,6 +459,7 @@ I am posting my daily questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0908-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
