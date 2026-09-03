@@ -64,6 +64,7 @@ I am posting my daily questions
 | [3830-find-closest-person](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -223,6 +224,7 @@ I am posting my daily questions
 | [3797-design-spreadsheet](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3797-design-spreadsheet) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
