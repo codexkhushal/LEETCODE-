@@ -194,6 +194,7 @@ I am posting my daily questions
 | [3433-count-mentions-per-user](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3433-count-mentions-per-user) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -280,6 +281,7 @@ I am posting my daily questions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
@@ -790,6 +792,7 @@ I am posting my daily questions
 | [2998-count-symmetric-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3548-find-the-count-of-good-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -825,6 +828,7 @@ I am posting my daily questions
 | ------- |
 | [0231-power-of-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
