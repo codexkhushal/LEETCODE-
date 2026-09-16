@@ -27,6 +27,7 @@ I am posting my daily questions
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1642-water-bottles](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1806-count-of-matches-in-tournament) |
 | [1840-maximum-building-height](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1840-maximum-building-height) |
@@ -553,6 +554,7 @@ I am posting my daily questions
 | [0209-minimum-size-subarray-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1871-jump-game-vii) |
 | [2249-count-the-hidden-sequences](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2249-count-the-hidden-sequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -755,6 +757,7 @@ I am posting my daily questions
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -784,6 +787,7 @@ I am posting my daily questions
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3201-distribute-candies-among-children-ii) |
