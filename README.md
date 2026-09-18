@@ -261,6 +261,7 @@ I am posting my daily questions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -355,6 +356,7 @@ I am posting my daily questions
 | [1264-maximum-number-of-words-you-can-type](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -519,6 +521,7 @@ I am posting my daily questions
 | [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1840-maximum-building-height](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -710,6 +713,7 @@ I am posting my daily questions
 | [1252-break-a-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1700-minimum-time-to-make-rope-colorful) |
