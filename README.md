@@ -335,6 +335,7 @@ I am posting my daily questions
 | [0012-integer-to-roman](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0058-length-of-last-word) |
@@ -894,6 +895,7 @@ I am posting my daily questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
@@ -1024,5 +1026,6 @@ I am posting my daily questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
