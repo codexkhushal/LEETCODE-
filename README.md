@@ -354,6 +354,7 @@ I am posting my daily questions
 | [0541-reverse-string-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
@@ -718,6 +719,7 @@ I am posting my daily questions
 | [0045-jump-game-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0917-boats-to-save-people) |
@@ -775,6 +777,7 @@ I am posting my daily questions
 | [0368-largest-divisible-subset](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -898,6 +901,7 @@ I am posting my daily questions
 | [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
+| [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1096-brace-expansion-ii) |
@@ -1027,5 +1031,6 @@ I am posting my daily questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
