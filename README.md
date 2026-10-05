@@ -356,6 +356,7 @@ I am posting my daily questions
 | [0657-robot-return-to-origin](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0965-unique-email-addresses) |
@@ -902,6 +903,7 @@ I am posting my daily questions
 | [0042-trapping-rain-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0042-trapping-rain-water) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0874-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1096-brace-expansion-ii) |
@@ -1032,5 +1034,6 @@ I am posting my daily questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
