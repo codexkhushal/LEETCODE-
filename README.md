@@ -345,6 +345,7 @@ I am posting my daily questions
 | [0125-valid-palindrome](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0388-longest-absolute-file-path) |
@@ -677,6 +678,7 @@ I am posting my daily questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0945-snakes-and-ladders) |
@@ -807,6 +809,7 @@ I am posting my daily questions
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
