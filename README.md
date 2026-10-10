@@ -164,6 +164,7 @@ I am posting my daily questions
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2402-meeting-rooms-iii) |
 | [2478-longest-nice-subarray](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2478-longest-nice-subarray) |
@@ -446,6 +447,7 @@ I am posting my daily questions
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -546,6 +548,7 @@ I am posting my daily questions
 | [2092-find-all-people-with-secret](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2092-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2402-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -706,6 +709,7 @@ I am posting my daily questions
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2402-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -747,6 +751,7 @@ I am posting my daily questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2497-maximum-matching-of-players-with-trainers) |
