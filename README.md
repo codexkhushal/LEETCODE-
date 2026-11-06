@@ -135,6 +135,7 @@ I am posting my daily questions
 | [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -457,6 +458,7 @@ I am posting my daily questions
 | [0287-find-the-duplicate-number](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0349-intersection-of-two-arrays) |
 | [0794-swim-in-rising-water](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0794-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1612-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -555,6 +557,7 @@ I am posting my daily questions
 | [1096-brace-expansion-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1840-maximum-building-height](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1840-maximum-building-height) |
@@ -680,6 +683,7 @@ I am posting my daily questions
 | [0985-bag-of-tokens](https://github.com/khushalsharma2213/LEETCODE-/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1028-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/khushalsharma2213/LEETCODE-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
