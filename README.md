@@ -408,6 +408,7 @@ I am posting my daily questions
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2887-sort-vowels-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
@@ -700,6 +701,7 @@ I am posting my daily questions
 | [2540-minimum-common-value](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2540-minimum-common-value) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3195-separate-black-and-white-balls](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3195-separate-black-and-white-balls) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -833,6 +835,7 @@ I am posting my daily questions
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2262-solving-questions-with-brainpower) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/khushalsharma2213/LEETCODE-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
