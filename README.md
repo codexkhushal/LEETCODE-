@@ -253,6 +253,7 @@ I am posting my daily questions
 | [3876-construct-uniform-parity-array-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -811,6 +812,7 @@ I am posting my daily questions
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -855,6 +857,7 @@ I am posting my daily questions
 | [3699-number-of-zigzag-arrays-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/khushalsharma2213/LEETCODE-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
